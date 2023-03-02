@@ -74,4 +74,4 @@ const comprarAuto = () => {
 comprarAuto ();
 
 
-alert("Le enviaremos un mail con los autos mas recomendados segun sus necesidades!!");
+alert("Le enviaremos un mail con los autos mas recomendados segun sus necesidades!!")
